@@ -12,6 +12,7 @@
 - [Flexbox Grid](http://flexboxgrid.com/)
 - [Repaintless.css](http://szynszyliszys.github.io/repaintless/)
 - [Family.scss](http://lukyvj.github.io/family.scss/)
+- [EQCSS](http://elementqueries.com/)
 
 # CSS Generator Tools
 
