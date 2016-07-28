@@ -13,6 +13,7 @@
 - [Repaintless.css](http://szynszyliszys.github.io/repaintless/)
 - [Family.scss](http://lukyvj.github.io/family.scss/)
 - [EQCSS](http://elementqueries.com/)
+- [AOS:Animate On Scroll Library](http://michalsnik.github.io/aos/)
 
 # CSS Generator Tools
 
