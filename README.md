@@ -14,6 +14,7 @@
 - [Family.scss](http://lukyvj.github.io/family.scss/)
 - [EQCSS](http://elementqueries.com/)
 - [AOS:Animate On Scroll Library](http://michalsnik.github.io/aos/)
+- [Shape & ShapeSwirl](http://mojs.io/tutorials/shape/)
 
 # CSS Generator Tools
 
