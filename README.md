@@ -15,6 +15,7 @@
 - [EQCSS](http://elementqueries.com/)
 - [AOS:Animate On Scroll Library](http://michalsnik.github.io/aos/)
 - [Shape & ShapeSwirl](http://mojs.io/tutorials/shape/)
+- [Iconate](https://bitshadow.github.io/iconate/)
 
 # CSS Generator Tools
 
