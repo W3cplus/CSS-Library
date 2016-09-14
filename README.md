@@ -16,6 +16,7 @@
 - [AOS:Animate On Scroll Library](http://michalsnik.github.io/aos/)
 - [Shape & ShapeSwirl](http://mojs.io/tutorials/shape/)
 - [Iconate](https://bitshadow.github.io/iconate/)
+- [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/)
 
 # CSS Generator Tools
 
