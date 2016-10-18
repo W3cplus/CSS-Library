@@ -17,6 +17,7 @@
 - [Shape & ShapeSwirl](http://mojs.io/tutorials/shape/)
 - [Iconate](https://bitshadow.github.io/iconate/)
 - [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/)
+- [CSS Icon](http://cssicon.space/)
 
 # CSS Generator Tools
 
