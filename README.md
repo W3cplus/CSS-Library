@@ -18,6 +18,7 @@
 - [Iconate](https://bitshadow.github.io/iconate/)
 - [lightgallery.js](https://sachinchoolur.github.io/lightgallery.js/)
 - [CSS Icon](http://cssicon.space/)
+- [CSS Flag](http://pixelastic.github.io/css-flags/)
 
 # CSS Generator Tools
 
